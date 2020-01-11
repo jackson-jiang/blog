@@ -98,4 +98,5 @@ theme: Anisina
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 'git'
+  type: git
+  repo: git@github.com:jackson-jiang/blog.git
