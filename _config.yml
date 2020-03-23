@@ -100,3 +100,4 @@ theme: Anisina
 deploy:
   type: git
   repo: git@github.com:jackson-jiang/blog.git
+  branch: gh-pages
